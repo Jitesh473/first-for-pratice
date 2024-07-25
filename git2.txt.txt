@@ -5,3 +5,4 @@ test file 1 $ test file 2
 test file 1 $ test file 2
 test file 1 $ test file 2
 test file 1 $ test file 2
+this is second test file for git branch
